@@ -2,7 +2,7 @@
 <h3 align="center">Third Year CS Student</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/friends-chandler-bing-laughing-y4mzo9tyr687woo5.gif">
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Nothing**
 
 - 📫 How to reach me **adithyachinmaya02@gmail.com**
 
