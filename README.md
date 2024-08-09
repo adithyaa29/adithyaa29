@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, I'm Adithya</h1>
-<h3 align="center">Final Year B.Tech CSE Student</h3>
+<h3 align="center">B.Tech CSE Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/friends-chandler-bing-laughing-y4mzo9tyr687woo5.gif">
 
 - 🌱 I’m currently doing **Google's Cbersecurity certification course**
