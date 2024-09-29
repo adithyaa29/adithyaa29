@@ -2,8 +2,7 @@
 <h3 align="center">B.Tech CSE Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/friends-chandler-bing-laughing-y4mzo9tyr687woo5.gif">
 
-- 🌱 Currently doing **Google's Cybersecurity Professional certification**
-- 🌱 Preparing for **CompTia A+**
+- 🌱 Currently doing **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
